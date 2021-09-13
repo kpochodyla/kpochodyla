@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kpochodyla
-- 👀 I’m interested in cryptography, hardwear, and embedded programming.
+- 👀 I’m interested in cryptography, hardware, and embedded programming.
 - 🌱 I’m currently learning C, C++ and Python.
 - 💞️ I’m looking to collaborate on projecst related to cryptography of embedded systems.
 <!---
